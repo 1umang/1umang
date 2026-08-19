@@ -12,7 +12,7 @@
 - 🎓 **Final Year B.Tech in CSE (Core)** at *SRM Institute of Science and Technology*  
 - 💻 Passionate about **software development, full-stack projects & problem-solving**  
 - 🌱 Exploring **Next.js, SQL optimization, and scalable systems**  
-- 🤝 **Intern at Vansprasth Vridhjan Sewa (Old Age Home)** → contributed to **digital literacy, emotional support & wellness programs** for the elderly  
+- 🤝 **VAPT Intern at Pyramid Cybersecurity & Forensics**  **  
 - ✨ Motto: *“Build with logic. Serve with empathy.”*  
 
 ---
